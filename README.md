@@ -1,3 +1,3 @@
 fastip
 ======
-Play app to calculate restaurant tip amount quickly
+Example app to calculate restaurant tip amount quickly
